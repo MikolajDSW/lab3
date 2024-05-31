@@ -1,3 +1,4 @@
+KOMENDY Użyte w tutorialu
 git commit 
 git branch bugFix
 git checkout bugFix
